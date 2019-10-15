@@ -1,0 +1,12 @@
+torch
+torchvision
+tensorboard
+jupyter
+future
+pyyaml
+matplotlib
+git+https://github.com/experimaestro/datamaestro
+git+https://github.com/experimaestro/datamaestro_image
+git+https://github.com/experimaestro/datamaestro_ml
+urllib3
+tqdm
